@@ -1,7 +1,5 @@
 package com.example.demo.com.example.demo.config;
 
-
-
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
